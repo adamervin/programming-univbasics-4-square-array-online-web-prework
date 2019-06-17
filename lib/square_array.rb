@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  while array do array2 << num*num 
+  array2 = []
+end
 end
